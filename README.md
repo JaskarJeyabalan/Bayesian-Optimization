@@ -1,7 +1,7 @@
 
 ---
 
-# Bayesian Optimization for Hyperparameter Tuning (From Scratch)
+# Bayesian Optimization for Hyperparameter Tuning
 
 ## Project Overview
 
